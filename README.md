@@ -5,9 +5,6 @@ This my personal portfolio website where you can see all of my projects, my soci
 
 **Link to project:** https://www.ryanoh.io
 
-## Preview:
-
-<img src="images/landing.gif" width="100%" alt="Portfolio"/>
 
 ## How It's Made:
 
