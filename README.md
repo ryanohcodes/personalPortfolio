@@ -5,8 +5,6 @@ This my personal portfolio website where you can see all of my projects, my soci
 
 **Link to project:** https://www.ryanoh.io
 
-![alt tag](http://placecorgi.com/1200/650)
-
 ## Preview:
 
 <img src="images/landing.gif" width="100%" alt="Portfolio"/>
